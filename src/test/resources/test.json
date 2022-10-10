@@ -1,0 +1,7 @@
+{
+  "name":"Ed",
+  "age": 5,
+  "weight": 20,
+  "sports": ["Footbal", "Tennis"]
+
+}
